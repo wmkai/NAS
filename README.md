@@ -12,6 +12,7 @@ Visualization on ADE20K validation set.
 <img width="674" alt="image" src="https://github.com/wmkai/NAS/assets/39148461/df94304c-38ee-4fdc-84f1-69d0a764b878">
 
 ## Usage
+The supernet training and searching process costs about one week on 8 Nvidia V100 GPUs. So if you want to reproduce the result, make sure you have enough GPU resources.
 Please see [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md) for dataset prepare.
 
 For supernet pre-training, run:
