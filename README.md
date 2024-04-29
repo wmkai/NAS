@@ -13,7 +13,7 @@ Visualization on ADE20K validation set.
 
 # Usage
 
-##The supernet training and searching process costs about one week on 8 Nvidia V100 GPUs. So if you want to reproduce the result, make sure you have enough GPU resources.
+## The supernet training and searching process costs about one week on 8 Nvidia V100 GPUs. So if you want to reproduce the result, make sure you have enough GPU resources.
 
 Please see [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/blob/master/docs/en/dataset_prepare.md) for dataset prepare.
 
