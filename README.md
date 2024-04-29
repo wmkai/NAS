@@ -1,11 +1,14 @@
 ## Result
 The result on ADE20K validation set.
+
 <img width="686" alt="image" src="https://github.com/wmkai/NAS/assets/39148461/977cd5f2-1d0e-4af3-9e6f-6701957ac994">
 
 The result on COCO-Stuff validation set.
+
 <img width="689" alt="image" src="https://github.com/wmkai/NAS/assets/39148461/aa98c92f-8d0a-47d8-a6a4-050184be1c5c">
 
 Visualization on ADE20K validation set.
+
 <img width="674" alt="image" src="https://github.com/wmkai/NAS/assets/39148461/df94304c-38ee-4fdc-84f1-69d0a764b878">
 
 ## Usage
