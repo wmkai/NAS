@@ -75,4 +75,4 @@ To test the inference speed in mobile device, please refer to [tnn_runtime](tnn_
 
 The implementation is based on [MMSegmentation](https://github.com/open-mmlab/mmsegmentation).
 
-The checkpoint can be found in [Google Drive](https://drive.google.com/drive/folders/1G1FEkT5zWl6kfOGHwMX5xxaydKAIWmYE?usp=share_link)
+The checkpoint can be found in [Google Drive](https://drive.google.com/drive/folders/1q-fckCp4C01WlDHVV_KvNIqxiedGnUyK?usp=drive_link)
